@@ -33,7 +33,7 @@
 
   </nav>
 </div>
-<div class="container px-0">
+<div class="container-fluid px-5">
 	<div class="col-md-12 mx-auto mt-5" >
     <table class="table table-hover table-responsive">
   <thead>
