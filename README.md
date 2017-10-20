@@ -10,3 +10,10 @@ A login page is provided to the user which asks for BitBucket Username and Passw
 The data received is stored in SESSION Var and user is redirected to the dashboard page where the JSON object is decoded into a PHP associative array and then the inforation about the repositories is accessed through a loop along the accos array.
 
 > A core.inc.php file is included which checks if a user is logged in or not by checking if a SESSION var is set, The Var is set upon successful login, it helps in restricting the user.
+
+![Login Page](https://github.com/ErFaanHussain/rankwatch17_php_bitbucket/blob/master/bitbucket-login.png)
+Screenshot of Login Page
+
+![Dashboard](https://github.com/ErFaanHussain/rankwatch17_php_bitbucket/blob/master/bitbucket-dashboard.png)
+Screenshot of Dashboard
+
